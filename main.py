@@ -6,7 +6,7 @@ from time import sleep
 from tqdm import tqdm
 from bs4 import BeautifulSoup as htmlparser
 import requests
-from interaface import logo
+from interface import logo
 
 
 interface_choise = ["0 -- Phone lookup", "1 -- Credits", "2 -- Exit" ]

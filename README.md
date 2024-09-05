@@ -1,4 +1,4 @@
-Installation(instruction for Windows)
+Installation(instruction for Windows)									
 Download as ZIP
 Unzip it as you want
 Copy path to unziped file
